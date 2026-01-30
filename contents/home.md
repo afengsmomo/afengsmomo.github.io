@@ -1,23 +1,23 @@
 [![GitHub](https://img.shields.io/badge/afengsmomo-github-blue?logo=github)](https://github.com/afengsmomo)
 
-I'm currently pursuing a **Master's degree in Control Science and Engineering** at **Shanghai University**.
+我目前在**上海大学**攻读**控制科学与工程**硕士学位。
 
-My research focuses on **Embodied AI**, **Vision-Language-Action (VLA) Models**, and **Robot Learning**.
+研究方向为**具身智能**、**视觉-语言-动作（VLA）模型**和**机器人学习**。
 
-#### Email
+#### 联系方式
 <code>afengstamp@qq.com</code>
 
-#### Education
-**Shanghai University**, Master of Control Science and Engineering (2024 – Present)
-• Research Direction: Embodied Intelligence, VLA Models
+#### 教育背景
+**上海大学**，控制科学与工程 硕士（2024 – 至今）
+• 研究方向：具身智能、VLA 模型
 
-**China University of Petroleum (East China)**, Bachelor of Information Management and Information Systems (2020 – 2024)
+**中国石油大学（华东）**，信息管理与信息系统 学士（2020 – 2024）
 
-#### Research Interests
-Embodied AI, Vision-Language-Action (VLA), Diffusion Policy, Robot Learning, Large Language Models (LLM/VLM).
+#### 研究兴趣
+具身智能、视觉-语言-动作（VLA）、扩散策略（Diffusion Policy）、机器人学习、大语言模型（LLM/VLM）
 
-#### Skills
-- **Large Models (LLM/VLM)**: Transformer architecture, Diffusion Policy, LoRA/QLoRA fine-tuning
-- **Embodied AI (VLA)**: Vision-Language-Action architectures (Octo, RT-2), DiT in robot policy
-- **Deep Learning**: PyTorch, HuggingFace Transformers
-- **Model Optimization**: Quantization, Distillation, Pruning, Token Routing
+#### 技术能力
+- **大模型 (LLM/VLM)**：Transformer 架构、Diffusion Policy、LoRA/QLoRA 微调
+- **具身智能 (VLA)**：Vision-Language-Action 架构（Octo, RT-2）、DiT 在机器人策略中的应用
+- **深度学习框架**：PyTorch、HuggingFace Transformers
+- **模型优化**：量化、蒸馏、剪枝、Token Routing
